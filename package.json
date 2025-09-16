@@ -1,0 +1,11 @@
+{
+    "name": "pssk2025",
+    "version": "25.12.2",
+    "description": "pssk2025",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "private": true,
+    "dependencies": {},
+    "engines": {
+        "node": ">=18"
+    }
+}
