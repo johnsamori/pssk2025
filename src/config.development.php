@@ -19,7 +19,7 @@ return [
 
     // Connection info
     "Databases" => [
-        "DB" => ["id" => "DB", "type" => "MYSQL", "qs" => "`", "qe" => "`", "host" => "172.10.10.240", "port" => 3306, "user" => "john", "password" => "132259610", "dbname" => "db_pssk25"]
+        "DB" => ["id" => "DB", "type" => "MYSQL", "qs" => "`", "qe" => "`", "host" => "172.10.10.240", "port" => 3306, "user" => "john", "password" => "", "dbname" => "db_pssk25"]
     ],
 
     // SMTP server settings
